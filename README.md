@@ -1,31 +1,7 @@
 # hello-world
 <!DOCTYPE html>
   <head>
-    <title>
-      </title>
-<style>
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color:white;
-  background-color: transparent;
-  text-decoration: underline;
-  
-}
-a:active {
-  color:red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
+ 
     </head>
   <body style='background-color: darkgoldenrod;color:darkgreen;'>
 <a href='https://github.com/darkhacker66/hello-world'><marquee><h1>Hello World</h1></marquee> </a> 
@@ -46,10 +22,7 @@ a:active {
     </button>
     </a>
 </p>
-<p align='center'>
-<textarea style='width:50%; height:10%;background-color:black;color: darkgreen;'>
   Now I'm going to release a new project in Python. But it won't be that complicated
-  </textarea>
-</p>  
+
 </body>
     </html>
